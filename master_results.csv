@@ -1,0 +1,101 @@
+lat,lng,name,rating,types,Workspace
+39.8395021,-86.1448064,Next Door American Eatery,4.9,"['restaurant', 'bar', 'food', 'point_of_interest', 'establishment']",The Speak Easy
+39.8508413,-86.1455825,The Jazz Kitchen,4.7,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",The Speak Easy
+39.8467806,-86.1460389,Red Key Tavern,4.6,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",The Speak Easy
+39.862479,-86.145641,Ambrosia,4.7,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",The Speak Easy
+39.8624019,-86.1463084,Binkley's KItchen and Bar,4.2,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",The Speak Easy
+39.8568055,-86.1577217,Meridian Restaurant & Bar,4.5,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",The Speak Easy
+39.8506202,-86.1455307,Yats,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']",The Speak Easy
+39.8520897,-86.1209963,Great Wall,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']",The Speak Easy
+39.8473778,-86.1452797,Delicia,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",The Speak Easy
+39.85086,-86.140849,Mama Carolla's,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",The Speak Easy
+39.8472823,-86.1460157,Aristocrat Pub & Restaurant,4.5,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",The Speak Easy
+39.8513889,-86.1388889,Diavola,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",The Speak Easy
+39.8536785,-86.1597525,Illinois Street Food Emporium,4.6,"['restaurant', 'bakery', 'food', 'point_of_interest', 'store', 'establishment']",The Speak Easy
+39.8507848,-86.141332,Good Morning Mama's Cafe,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",The Speak Easy
+39.8690357,-86.1428085,3 Sisters Café,4.3,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",The Speak Easy
+39.8688101,-86.1403749,Shalimar Indian Restaurant,4.1,"['restaurant', 'food', 'point_of_interest', 'establishment']",The Speak Easy
+39.8493489,-86.1414419,Half Liter BBQ & Beer Hall,4.5,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",The Speak Easy
+39.868796,-86.1405539,Thai Cafe,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']",The Speak Easy
+39.8513015,-86.1461235,Twenty Tap,4.7,"['bar', 'liquor_store', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",The Speak Easy
+39.8468203,-86.1461105,The Little India restaurant,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",The Speak Easy
+39.9506398,-86.2823908,Oobatz Restaurant,2.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",zWORKS
+39.9503348,-86.2612239,AUBERGE,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",zWORKS
+39.9491667,-86.2613889,The Friendly Tavern,4.7,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",zWORKS
+39.950266,-86.2617699,Cobblestone,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",zWORKS
+39.951262,-86.2621761,Rosie's Place,4.6,"['restaurant', 'bakery', 'food', 'point_of_interest', 'store', 'establishment']",zWORKS
+39.9477453,-86.2379999,Stone Creek Dining Company - Zionsville,4.5,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",zWORKS
+39.9505274,-86.261922,Rush On Main,4.5,"['restaurant', 'bar', 'food', 'point_of_interest', 'establishment']",zWORKS
+39.9499325,-86.2605044,The Lemon Bar,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']",zWORKS
+39.9508697,-86.2616145,Noah Grant's Grill House & Oyster Bar,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",zWORKS
+39.951155,-86.2621502,Convivio Italian Artisan Cuisine - Zionsville,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",zWORKS
+39.951871,-86.277319,Amore Pizzeria & Ristorante,4.6,"['restaurant', 'food', 'point_of_interest', 'store', 'establishment']",zWORKS
+39.95075,-86.2609441,Salty Cowboy,4.4,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",zWORKS
+39.9494616,-86.2609794,Zionsville Pizzeria,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']",zWORKS
+39.9453111,-86.2603833,Bub's Burgers and Ice Cream,4.4,"['restaurant', 'food', 'point_of_interest', 'store', 'establishment']",zWORKS
+39.9464999,-86.2402148,Moe's Southwest Grill,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']",zWORKS
+39.9519094,-86.2783649,Happy Kitchen & Sushi Bar,4.2,"['restaurant', 'food', 'point_of_interest', 'establishment']",zWORKS
+39.949446,-86.276846,Rice Cooker,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']",zWORKS
+39.9506489,-86.2826563,EL TORO OF ZIONSVILLE,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']",zWORKS
+39.9516125,-86.2622965,Greek's Pizzeria Zionsville,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']",zWORKS
+39.9470685,-86.2376874,Le Peep West Carmel,4,"['restaurant', 'food', 'point_of_interest', 'establishment']",zWORKS
+39.9564056,-86.0011596,The HC Tavern + Kitchen,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",Launch Fishers
+39.9550188,-86.0014325,1933 Lounge by St. Elmo,4.5,"['restaurant', 'bar', 'food', 'point_of_interest', 'establishment']",Launch Fishers
+39.958392,-86.0046547,Topgolf,4.5,"['restaurant', 'bar', 'food', 'school', 'health', 'point_of_interest', 'establishment']",Launch Fishers
+39.9570037,-86.0180445,Poke Bros,5,"['restaurant', 'food', 'point_of_interest', 'establishment']",Launch Fishers
+39.956087,-86.010465,Ali'i Poke Fishers,4.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",Launch Fishers
+39.9561554,-86.0012572,RIZE Fishers,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",Launch Fishers
+39.9570612,-86.01687,LouVino Fishers Restaurant & Wine Bar,4.4,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",Launch Fishers
+39.955624,-86.0019492,Chicken Salad Chick,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",Launch Fishers
+39.9836943,-86.0030133,Taco Bell,3.9,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",Launch Fishers
+39.9575706,-86.0106634,McDonald's,3.6,"['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",Launch Fishers
+39.957237,-86.01671,Another Broken Egg Cafe,4.6,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",Launch Fishers
+39.9594107,-85.995632,Bento Café - Fishers,4.5,"['restaurant', 'cafe', 'food', 'point_of_interest', 'establishment']",Launch Fishers
+39.975525,-86.00299,Texas Roadhouse,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",Launch Fishers
+39.9550335,-85.9977043,Sunrise Cafe - Fishers,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']",Launch Fishers
+39.9560734,-86.0103298,Puccini's Pizza & Pasta-Fishers,4.4,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",Launch Fishers
+39.9564802,-86.0047347,Portillo's Hot Dogs,4.3,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",Launch Fishers
+39.979375,-86.00169,City Barbeque and Catering,4.5,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",Launch Fishers
+39.9550026,-86.0005153,Fishers Test Kitchen,4.3,"['restaurant', 'food', 'point_of_interest', 'establishment']",Launch Fishers
+39.9586037,-86.0124048,Five Guys,4.5,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",Launch Fishers
+39.9566333,-86.017328,Thai Sushi House,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']",Launch Fishers
+39.7648475,-86.1598029,St. Elmo Steak House,4.7,"['night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",Industrious Mass Ave
+39.7721472,-86.1537536,The Oakmont,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']",Industrious Mass Ave
+39.7659644,-86.1645815,Conner’s Kitchen + Bar,4.5,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",Industrious Mass Ave
+39.7719812,-86.1535945,Bakersfield,4.5,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",Industrious Mass Ave
+39.7645564,-86.1596447,Harry & Izzy's,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",Industrious Mass Ave
+39.7758333,-86.1475,Ralston's,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",Industrious Mass Ave
+39.7662494,-86.1568261,Pearl Street Pizzeria & Pub,4.5,"['meal_delivery', 'meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",Industrious Mass Ave
+39.7718129,-86.1539722,The Eagle,4.5,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",Industrious Mass Ave
+39.7526154,-86.1406281,Pure Eatery,4.4,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",Industrious Mass Ave
+39.767987,-86.154676,Subito,4.9,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",Industrious Mass Ave
+39.7709009,-86.1470547,Vida,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']",Industrious Mass Ave
+39.7671818,-86.1551276,Hinata Japanese Fine Dining,4.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",Industrious Mass Ave
+39.7766517,-86.1454802,Livery,4.7,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",Industrious Mass Ave
+39.779036,-86.1559482,Comida,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",Industrious Mass Ave
+39.7674064,-86.159195,The Capital Grille,4.6,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",Industrious Mass Ave
+39.7669396,-86.1619453,Café Patachou,4.5,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",Industrious Mass Ave
+39.7575325,-86.1457864,Bluebeard,4.7,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",Industrious Mass Ave
+39.7653282,-86.1591399,Yard House,4.4,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",Industrious Mass Ave
+39.7786645,-86.155585,Axum Ethiopian Restaurant,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",Industrious Mass Ave
+39.7737737,-86.1503028,The Rathskeller,4.5,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",Industrious Mass Ave
+39.7721472,-86.1537536,The Oakmont,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']",Launch Indy
+39.7662494,-86.1568261,Pearl Street Pizzeria & Pub,4.5,"['meal_delivery', 'meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",Launch Indy
+39.7526154,-86.1406281,Pure Eatery,4.4,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",Launch Indy
+39.767987,-86.154676,Subito,4.9,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",Launch Indy
+39.7709009,-86.1470547,Vida,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']",Launch Indy
+39.7671818,-86.1551276,Hinata Japanese Fine Dining,4.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",Launch Indy
+39.7766517,-86.1454802,Livery,4.7,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",Launch Indy
+39.7674064,-86.159195,The Capital Grille,4.6,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",Launch Indy
+39.7669396,-86.1619453,Café Patachou,4.5,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",Launch Indy
+39.7575325,-86.1457864,Bluebeard,4.7,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",Launch Indy
+39.7653282,-86.1591399,Yard House,4.4,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",Launch Indy
+39.7737737,-86.1503028,The Rathskeller,4.5,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",Launch Indy
+39.7673198,-86.1607439,Tony's of Indianapolis,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",Launch Indy
+39.7552108,-86.1594982,Greek Islands,4.6,"['restaurant', 'food', 'point_of_interest', 'store', 'establishment']",Launch Indy
+39.7648475,-86.1598029,St. Elmo Steak House,4.7,"['night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",Launch Indy
+39.7660688,-86.1583121,The Oceanaire Seafood Room,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",Launch Indy
+39.7654668,-86.1586887,Nada,4.4,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",Launch Indy
+39.7676051,-86.1600653,Weber Grill Restaurant,4.2,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",Launch Indy
+39.7666943,-86.161151,The Eagle's Nest,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']",Launch Indy
+39.7667906,-86.1556927,Fogo de Chão Brazilian Steakhouse,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",Launch Indy
